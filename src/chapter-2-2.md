@@ -1,5 +1,3 @@
-Common Applications of AI in Promoting Gratitude, Including Mood Tracking and Journaling
-=======================================================================================================================================================
 
 In this chapter, we will explore common applications of AI in promoting gratitude, including mood tracking and journaling. We will examine how AI can be used to enhance these practices and provide personalized support for individuals seeking to cultivate a more grateful mindset.
 

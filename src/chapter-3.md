@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Gratitude Practice
-=======================================================
 
 In this chapter, we will explore the steps for creating a personalized gratitude practice that leverages AI-powered tools. We will discuss how to integrate these tools into your daily routine, set realistic goals, and track progress on your gratitude journey.
 

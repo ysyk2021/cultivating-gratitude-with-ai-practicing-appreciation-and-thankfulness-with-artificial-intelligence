@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Sentiment Analysis for Understanding Triggers and Cultivating Positive Emotions
-=========================================================================================================================================================================================
 
 In this chapter, we will discuss how machine learning can be leveraged to provide personalized gratitude support. Specifically, we will explore how sentiment analysis can be used to understand triggers and cultivate positive emotions.
 

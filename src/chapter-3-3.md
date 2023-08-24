@@ -1,5 +1,3 @@
-Setting Realistic Goals and Tracking Progress on Your Gratitude Journey
-================================================================================================================================
 
 In this chapter, we will explore how to set realistic goals and track progress on your gratitude journey using AI-powered tools. We will discuss the importance of setting achievable goals and celebrate small victories along the way.
 

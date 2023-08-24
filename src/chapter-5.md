@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Gratitude Exercises with AI
-================================================
 
 AI-powered tools can enhance gratitude exercises, providing individuals with more immersive, personalized, and effective experiences. In this chapter, we will explore how AI can be used to enhance gratitude exercises.
 

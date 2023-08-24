@@ -1,5 +1,3 @@
-Steps for Creating a Personalized Gratitude Practice
-=============================================================================================================
 
 In this chapter, we will explore the steps for creating a personalized gratitude practice using AI-powered tools. We will discuss how to set goals, choose the right tools, and develop a consistent practice that aligns with your unique needs and preferences.
 

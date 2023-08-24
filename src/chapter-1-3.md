@@ -1,5 +1,3 @@
-What You Can Expect From This Book
-================================================
 
 Cultivating gratitude is a powerful practice that can have a positive impact on our mental and emotional well-being. Artificial intelligence (AI) can help us develop and maintain a consistent gratitude practice by providing personalized support and guidance.
 

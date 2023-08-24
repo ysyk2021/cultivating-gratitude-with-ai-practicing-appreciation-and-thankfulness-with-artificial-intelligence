@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-===============================================================================================
 
 In this chapter, we will explore what AI is and how it can be applied to gratitude practices. We will provide an overview of the technology and discuss its potential applications in enhancing our ability to express appreciation and thankfulness.
 

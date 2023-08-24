@@ -1,5 +1,3 @@
-Personalizing Gratitude Exercises with Machine Learning
-=========================================================================================================
 
 Gratitude exercises are a powerful tool for cultivating appreciation and thankfulness. However, not all gratitude exercises work equally well for everyone. For example, some people may find it more helpful to focus on expressing gratitude for experiences, while others may prefer to focus on expressing gratitude for people.
 

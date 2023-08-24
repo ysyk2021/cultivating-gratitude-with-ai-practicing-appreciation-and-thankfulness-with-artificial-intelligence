@@ -1,5 +1,3 @@
-How AI Can Enhance Mindfulness and Well-being
-===========================================================
 
 Cultivating gratitude is an important aspect of mindfulness and well-being. Expressing appreciation and thankfulness can help us focus on the present moment, reduce stress, and enhance our overall sense of happiness and fulfillment.
 

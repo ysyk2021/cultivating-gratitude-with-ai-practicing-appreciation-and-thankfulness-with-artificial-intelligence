@@ -1,5 +1,3 @@
-Recap of the Benefits of Using AI for Cultivating Gratitude
-=======================================================================
 
 In this book, we've explored how artificial intelligence (AI) can enhance our ability to cultivate gratitude and express appreciation and thankfulness. By providing personalized support and guidance, AI-powered tools can help us develop healthy habits around expressing gratitude.
 
