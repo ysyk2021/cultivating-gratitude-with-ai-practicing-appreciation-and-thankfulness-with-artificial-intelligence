@@ -8,3 +8,7 @@ Through exploring various topics such as designing a personalized gratitude prac
 By using AI-powered tools to enhance gratitude practices, individuals can experience numerous benefits, including increased positive emotions, improved relationships, and overall greater satisfaction with life. This book offers a comprehensive guide for individuals seeking to harness the power of AI to cultivate a more grateful mindset and live happier, more fulfilling lives.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
