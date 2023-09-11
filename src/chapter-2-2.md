@@ -1,5 +1,4 @@
-Chapter 3: Common Applications of AI in Promoting Gratitude
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the common applications of Artificial Intelligence (AI) that play a pivotal role in promoting gratitude, including mood tracking and journaling.
 

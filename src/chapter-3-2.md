@@ -1,5 +1,4 @@
-Chapter 10: Integrating AI-Powered Tools for Tracking and Reflecting on Gratitude
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the seamless integration of AI-powered tools into your gratitude practice. By harnessing the capabilities of Artificial Intelligence (AI), you can efficiently track your gratitude journey and engage in meaningful reflections, further enriching your appreciation and thankfulness.
 

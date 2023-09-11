@@ -1,5 +1,4 @@
-Chapter 7: Personalizing Gratitude Exercises with Machine Learning
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting realm of personalizing gratitude exercises through the application of Machine Learning (ML) techniques. Discover how AI can tailor gratitude practices to individual preferences and needs, enhancing the effectiveness of the journey towards cultivating gratitude.
 

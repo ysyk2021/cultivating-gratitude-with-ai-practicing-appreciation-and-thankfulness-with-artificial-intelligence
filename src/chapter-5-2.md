@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Guided Meditations and Mindfulness Exercises
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of Artificial Intelligence (AI) on guided meditations and mindfulness exercises, offering innovative ways to cultivate gratitude and promote well-being.
 

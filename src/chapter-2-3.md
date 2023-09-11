@@ -1,5 +1,4 @@
-Chapter 5: Examples of Successful Implementation of AI in Gratitude
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several real-world examples of how Artificial Intelligence (AI) has been successfully implemented to cultivate gratitude and encourage the practice of appreciation and thankfulness.
 

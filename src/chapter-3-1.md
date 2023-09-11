@@ -1,5 +1,4 @@
-Chapter 11: Steps for Creating a Personalized Gratitude Practice
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps for creating a personalized gratitude practice with the assistance of Artificial Intelligence (AI). By following these guidelines, you can tailor your gratitude journey to your unique needs and preferences, deepening your appreciation and thankfulness.
 

@@ -1,5 +1,4 @@
-Chapter 6: Addressing Concerns about Privacy and Security when Using AI in Gratitude Practices
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical topic of privacy and security when integrating artificial intelligence (AI) into gratitude practices. As technology becomes more intertwined with our personal lives, it is essential to address the potential risks and safeguards associated with AI-powered gratitude tools.
 

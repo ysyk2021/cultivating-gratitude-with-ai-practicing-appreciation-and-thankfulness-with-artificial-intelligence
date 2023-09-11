@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will lay the foundation for understanding artificial intelligence (AI) and its role in cultivating gratitude. We'll explore what AI is, its fundamental principles, and how it operates to support the practice of appreciation and thankfulness.
 

@@ -1,5 +1,4 @@
-Chapter 8: Using Machine Learning-Powered Visualization Techniques for More Immersive Experiences
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting ways in which Machine Learning (ML) and Artificial Intelligence (AI) are enhancing the practice of gratitude through immersive visualization techniques. These techniques provide users with a deeper and more engaging experience, fostering a profound sense of appreciation and thankfulness.
 

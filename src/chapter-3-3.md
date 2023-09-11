@@ -1,5 +1,4 @@
-Chapter 9: Setting Realistic Goals and Tracking Progress on Your Gratitude Journey
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of setting realistic goals and tracking your progress as you embark on your gratitude journey with the assistance of Artificial Intelligence (AI). This chapter will guide you on how to establish meaningful objectives and leverage AI tools to measure and enhance your appreciation and thankfulness over time.
 

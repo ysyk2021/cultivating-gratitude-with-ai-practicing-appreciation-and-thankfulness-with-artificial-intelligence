@@ -1,5 +1,4 @@
-Chapter 5: Implementing AI-Powered Reminders and Prompts for Expressing Gratitude
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the practical aspects of using artificial intelligence to enhance and encourage the practice of gratitude. We will explore how AI-powered reminders and prompts can be effectively integrated into your daily life to help you express gratitude more consistently and authentically.
 

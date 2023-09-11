@@ -1,5 +1,4 @@
-Chapter 10: Future Developments and Trends in AI-Powered Gratitude
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we embark on a journey into the exciting realm of future developments and emerging trends in AI-powered gratitude practices. As technology continues to advance, so does the potential for artificial intelligence (AI) to play an even more significant role in cultivating appreciation and thankfulness.
 
